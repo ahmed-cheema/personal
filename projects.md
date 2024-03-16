@@ -6,6 +6,10 @@ custom_class: truewide
 ---
 
 <div class="container" style="margin:auto">
+    <p class="resp mb-2" style="width:70%; text-align:center; margin:auto;">
+        I've selected some of my more extensive projects to highlight on this page.
+        You can find some of the smaller scale projects that didn't make the cut <a href="/mini-projects/">here</a>.
+    </p>
     <div style="text-align:center">
         <h3 style="text-align:center">
             <a href="/projects/geolocation/">
