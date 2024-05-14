@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Quantifying the Streakiness of NBA Shooters "
+title: "Quantifying the Streakiness of NBA Shooters"
 category: projects
 permalink: /projects/streakiness/
 ---

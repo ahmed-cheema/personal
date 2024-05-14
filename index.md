@@ -13,7 +13,7 @@ layout: single
 
 I'm a fourth year undergraduate student studying computer science at Grinnell College. I currently work as a data analyst for John Deere.
 
-I'm interested in pursuing a career in data science. You can find some of my relevant projects on this website.
+I'm interested in pursuing a career in data science. I primarily work in Python and R. You can find some of my relevant projects on this website.
 
 <div style="text-align: center;">
     <a href="/projects/" class="btn btn--info" style="margin-right:1%">Projects</a>
