@@ -11,7 +11,9 @@ layout: single
     <a href="https://twitter.com/cheemsta" target="_blank"><i class="fab fa-twitter" style="font-size:1.5em"></i></a>
 </div>
 
-I'm a fourth year undergraduate student studying computer science at Grinnell College. I currently work as a data analyst for John Deere.
+I'm currently working as a data analyst for John Deere. 
+
+I graduated from Grinnell College in 2022 and received a bachelor's degree in computer science.
 
 I'm interested in pursuing a career in data science. I primarily work in Python and R. You can find some of my relevant projects on this website.
 
