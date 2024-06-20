@@ -13,7 +13,7 @@ layout: single
 
 I'm currently working as a data analyst for John Deere. 
 
-I graduated from Grinnell College in 2022 and received a bachelor's degree in computer science.
+I graduated from Grinnell College in 2024 and received a bachelor's degree in computer science.
 
 I'm interested in pursuing a career in data science. I primarily work in Python and R. You can find some of my relevant projects on this website.
 
